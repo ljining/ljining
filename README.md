@@ -17,7 +17,11 @@
 
 
 
-**Contact**
+**My**
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=)
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/l_jining/)
+<img 
+src="http://img.shields.io/badge/-Velog-black?style=flat&logo=velog&link=[https://instagram.com/alpox.dev/]([https://www.instagram.com/l_jining/](https://velog.io/@108book/posts))"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img 
+src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=[https://instagram.com/alpox.dev/](https://www.instagram.com/l_jining/)"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
