@@ -10,16 +10,14 @@
 > 
   
 
----
 
 **Language**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljining&layout=compact)
 
 
----
 
 **Contact**
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![image](https://img.shields.io/badge/tnrgid135-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![image](https://img.shields.io/badge/l_jining-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
