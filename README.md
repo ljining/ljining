@@ -19,5 +19,5 @@
 
 **Contact**
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=tnrgid135&logoColor=white)
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=ljining&logoColor=white)
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=)
+![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/l_jining/)
